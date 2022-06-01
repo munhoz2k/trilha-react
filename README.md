@@ -1,3 +1,3 @@
 # Front-end page with React
--- This is my first React project guys, i'll be doing a really nice project, I promise.
+-- This is my first React project guys, i'll be doing a really good work here, I promise.
 > I'll change it to TS soon, still learning the basics, keep calm... 
